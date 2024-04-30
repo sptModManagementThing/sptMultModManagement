@@ -1,0 +1,2554 @@
+[
+  {
+    "ZoneId": "woods_ruafinfil_1_ruafgate",
+    "ZoneName": "woods_ruafinfil_1_ruafgate",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-136.8898",
+      "Y": "-1.147847",
+      "Z": "415.944"
+    },
+    "Rotation": {
+      "X": "0.002021012",
+      "Y": "0.3766276",
+      "Z": "-0.0008216753"
+    },
+    "Scale": {
+      "X": "18.25",
+      "Y": "6.25",
+      "Z": "15.5"
+    }
+  },
+  {
+    "ZoneId": "customs_markedroom",
+    "ZoneName": "customs_markedroom",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "180.8372",
+      "Y": "7.331575",
+      "Z": "183.2361"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.05015716",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.75",
+      "Y": "3.25",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_hermetic_switch",
+    "ZoneName": "reserve_hermetic_switch",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-61.27941",
+      "Y": "-5.291719",
+      "Z": "77.22112"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.126199",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5",
+      "Y": "3.25",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_hermetic_switch_mark",
+    "ZoneName": "reserve_hermetic_switch_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-61.27941",
+      "Y": "-5.291719",
+      "Z": "77.22112"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.126199",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5",
+      "Y": "3.25",
+      "Z": "2.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_d2_switch",
+    "ZoneName": "reserve_d2_switch",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-116.9188",
+      "Y": "-13.53575",
+      "Z": "22.58413"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "2.75",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_d2_switch_mark",
+    "ZoneName": "reserve_d2_switch_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-116.9188",
+      "Y": "-13.53575",
+      "Z": "22.58413"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "2.75",
+      "Z": "1.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_d2_door",
+    "ZoneName": "reserve_d2_door",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-117.4627",
+      "Y": "-17.36591",
+      "Z": "168.7612"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.2440382",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "2",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_d2_door_mark",
+    "ZoneName": "reserve_d2_door_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-117.4627",
+      "Y": "-17.36591",
+      "Z": "168.7612"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.2440382",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "2",
+      "Z": "1.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_dome_ags",
+    "ZoneName": "reserve_dome_ags",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-25.24833",
+      "Y": "19.57441",
+      "Z": "168.4865"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "2.25",
+      "Z": "3"
+    }
+  },
+  {
+    "ZoneId": "reserve_dome_ags_mark",
+    "ZoneName": "reserve_dome_ags_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-25.24833",
+      "Y": "19.57441",
+      "Z": "168.4865"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "2.25",
+      "Z": "3"
+    }
+  },  
+  {
+    "ZoneId": "reserve_dome_hmg",
+    "ZoneName": "reserve_dome_hmg",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-0.4888619",
+      "Y": "9.230106",
+      "Z": "139.204"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.2164396",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.75",
+      "Y": "4",
+      "Z": "3"
+    }
+  },
+  {
+    "ZoneId": "reserve_dome_hmg_mark",
+    "ZoneName": "reserve_dome_hmg_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-0.4888619",
+      "Y": "9.230106",
+      "Z": "139.204"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.2164396",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.75",
+      "Y": "4",
+      "Z": "3"
+    }
+  },  
+  {
+    "ZoneId": "reserve_blackbishoproof_hmg",
+    "ZoneName": "reserve_blackbishoproof_hmg",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-117.4411",
+      "Y": "0.8046377",
+      "Z": "-30.57406"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.2334454",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.25",
+      "Y": "3.75",
+      "Z": "4"
+    }
+  },
+  {
+    "ZoneId": "reserve_blackbishoproof_hmg_mark",
+    "ZoneName": "reserve_blackbishoproof_hmg_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-117.4411",
+      "Y": "0.8046377",
+      "Z": "-30.57406"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.2334454",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.25",
+      "Y": "3.75",
+      "Z": "4"
+    }
+  },  
+  {
+    "ZoneId": "reserve_blackbishop_hmg",
+    "ZoneName": "reserve_blackbishop_hmg",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-125.5077",
+      "Y": "1.056461",
+      "Z": "-9.433999"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1283629",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "2.5",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_blackbishop_hmg_mark",
+    "ZoneName": "reserve_blackbishop_hmg_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-125.5077",
+      "Y": "1.056461",
+      "Z": "-9.433999"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1283629",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "2.5",
+      "Z": "2.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_trainyard_hmg",
+    "ZoneName": "reserve_trainyard_hmg",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "151.7861",
+      "Y": "3.281511",
+      "Z": "-126.6519"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1197037",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.5",
+      "Y": "3",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_trainyard_hmg_mark",
+    "ZoneName": "reserve_trainyard_hmg_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "151.7861",
+      "Y": "3.281511",
+      "Z": "-126.6519"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1197037",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.5",
+      "Y": "3",
+      "Z": "3.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_trainyard_roof",
+    "ZoneName": "reserve_trainyard_roof",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "178.6862",
+      "Y": "-0.1319439",
+      "Z": "-167.1135"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1088669",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.5",
+      "Y": "2.25",
+      "Z": "3.5"
+    }
+  },  
+  {
+    "ZoneId": "reserve_white_pawn",
+    "ZoneName": "reserve_white_pawn",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-103.1233",
+      "Y": "-1.548494",
+      "Z": "92.09973"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1326995",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "50.25",
+      "Y": "9.75",
+      "Z": "12.5"
+    }
+  },
+  {
+    "ZoneId": "reserve_black_pawn",
+    "ZoneName": "reserve_black_pawn",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-163.0344",
+      "Y": "-1.548494",
+      "Z": "54.86798"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1326889",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "12.75",
+      "Y": "11",
+      "Z": "46"
+    }
+  },
+  {
+    "ZoneId": "reserve_black_bishop",
+    "ZoneName": "reserve_black_bishop",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-147.3446",
+      "Y": "-2.18594",
+      "Z": "-11.01578"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1240344",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "45.75",
+      "Y": "8",
+      "Z": "12.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_white_bishop",
+    "ZoneName": "reserve_white_bishop",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-65.40376",
+      "Y": "-2.730007",
+      "Z": "-31.4026"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1283629",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "33.5",
+      "Y": "8.5",
+      "Z": "14.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_white_queen",
+    "ZoneName": "reserve_white_queen",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-52.28036",
+      "Y": "-3.028972",
+      "Z": "12.35579"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "41.5",
+      "Y": "8",
+      "Z": "34"
+    }
+  },
+  {
+    "ZoneId": "reserve_white_king",
+    "ZoneName": "reserve_white_king",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-7.818314",
+      "Y": "25.84312",
+      "Z": "182.5291"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "18",
+      "Y": "15",
+      "Z": "35.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_black_knight",
+    "ZoneName": "reserve_black_knight",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "15.1688",
+      "Y": "-1.719666",
+      "Z": "-13.20068"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "23",
+      "Y": "10.5",
+      "Z": "33.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_white_knight",
+    "ZoneName": "reserve_white_knight",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "84.42997",
+      "Y": "-2.51838",
+      "Z": "-30.28839"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1326889",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "23",
+      "Y": "8.75",
+      "Z": "31"
+    }
+  },  
+  {
+    "ZoneId": "reserve_mi26",
+    "ZoneName": "reserve_mi26",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-126.2233",
+      "Y": "-2.440725",
+      "Z": "32.44605"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.2164396",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8",
+      "Y": "9",
+      "Z": "24.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_mi26_mark",
+    "ZoneName": "reserve_mi26_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-126.2233",
+      "Y": "-2.440725",
+      "Z": "32.44605"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.2164396",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8",
+      "Y": "9",
+      "Z": "24.75"
+    }
+  },  
+  {
+    "ZoneId": "reserve_blackbishop_cam_plant",
+    "ZoneName": "reserve_blackbishop_cam_plant",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-143.3343",
+      "Y": "-5.872141",
+      "Z": "0.2544466"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "42.75",
+      "Y": "2",
+      "Z": "4.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_blackpawn_cam_plant",
+    "ZoneName": "reserve_blackpawn_cam_plant",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-153.8487",
+      "Y": "-5.328309",
+      "Z": "48.53764"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.5",
+      "Y": "2.75",
+      "Z": "51.75"
+    }
+  },
+  {
+    "ZoneId": "reserve_whitepawn_cam_plant",
+    "ZoneName": "reserve_whitepawn_cam_plant",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-104.3748",
+      "Y": "-5.313498",
+      "Z": "81.94261"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1326889",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "39.75",
+      "Y": "3.5",
+      "Z": "4.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_markedroom_blackpawn",
+    "ZoneName": "reserve_markedroom_blackpawn",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-158.6271",
+      "Y": "-8.718192",
+      "Z": "72.58332"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1132032",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "2.5",
+      "Z": "3.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_markedroom_bunker",
+    "ZoneName": "reserve_markedroom_bunker",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-119.9919",
+      "Y": "-13.78575",
+      "Z": "27.5271"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1305262",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.75",
+      "Y": "3.25",
+      "Z": "3.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_markedroom_barracks",
+    "ZoneName": "reserve_markedroom_barracks",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "189.0739",
+      "Y": "-5.845368",
+      "Z": "-224.2821"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.1023585",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "3.75",
+      "Z": "2.25"
+    }
+  },
+  {
+    "ZoneId": "reserve_dome_mark",
+    "ZoneName": "reserve_dome_mark",
+    "ZoneLocation": "RezervBase",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-8.293835",
+      "Y": "33.85944",
+      "Z": "173.742"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "15.25",
+      "Y": "8.5",
+      "Z": "15.75"
+    }
+  },  
+  {
+    "ZoneId": "ruafinfiltrator1",
+    "ZoneName": "ruafinfiltrator1",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-13.49728",
+      "Y": "1.310479",
+      "Z": "-134.1813"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.06975647",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16.25",
+      "Y": "6.25",
+      "Z": "13"
+    }
+  },
+  {
+    "ZoneId": "shoreline_pok_markedroom",
+    "ZoneName": "shoreline_pok_markedroom",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-337.6565",
+      "Y": "3.301996",
+      "Z": "-87.58442"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6",
+      "Y": "2.5",
+      "Z": "5.25"
+    }
+  },
+ {
+    "ZoneId": "woods_markedcircle",
+    "ZoneName": "woods_markedcircle",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "195.752",
+      "Y": "1.024534",
+      "Z": "-7.020946"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "2.25",
+      "Z": "4.25"
+    }
+  },
+  {
+    "ZoneId": "woods_checkpoint",
+    "ZoneName": "woods_checkpoint",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "240.5837",
+      "Y": "-0.09092617",
+      "Z": "-63.38216"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.1045285",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "27",
+      "Y": "5",
+      "Z": "36.5"
+    }
+  },
+  {
+    "ZoneId": "woods_stryker_1",
+    "ZoneName": "woods_stryker_1",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-536.7319",
+      "Y": "23.12382",
+      "Z": "-241.0764"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "2.418113E-32",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9.25",
+      "Y": "2.5",
+      "Z": "4.5"
+    }
+  },  
+  {
+    "ZoneId": "woods_stryker_1_mark",
+    "ZoneName": "woods_stryker_1_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-536.7319",
+      "Y": "23.12382",
+      "Z": "-241.0764"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "2.418113E-32",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9.25",
+      "Y": "2.5",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "woods_stryker_2",
+    "ZoneName": "woods_stryker_2",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-486.6779",
+      "Y": "15.88812",
+      "Z": "-154.9564"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.25",
+      "Y": "3",
+      "Z": "4.75"
+    }
+  },  
+  {
+    "ZoneId": "woods_stryker_2_mark",
+    "ZoneName": "woods_stryker_2_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-486.6779",
+      "Y": "15.88812",
+      "Z": "-154.9564"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.25",
+      "Y": "3",
+      "Z": "4.75"
+    }
+  },
+  {
+    "ZoneId": "woods_t90",
+    "ZoneName": "woods_t90",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-342.7895",
+      "Y": "-0.7001184",
+      "Z": "157.8184"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.01745241",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.5",
+      "Y": "4",
+      "Z": "5"
+    }
+  },  
+  {
+    "ZoneId": "woods_t90_mark",
+    "ZoneName": "woods_t90_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-342.7895",
+      "Y": "-0.7001184",
+      "Z": "157.8184"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.01745241",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.5",
+      "Y": "4",
+      "Z": "5"
+    }
+  },
+  {
+    "ZoneId": "shoreline_ruafinfil_1_ruafcamp",
+    "ZoneName": "shoreline_ruafinfil_1_ruafcamp",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-860.8431",
+      "Y": "-56.97033",
+      "Z": "461.4393"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "94.25",
+      "Y": "6",
+      "Z": "28.5"
+    }
+  },
+  {
+    "ZoneId": "groundzero_miraave_extract",
+    "ZoneName": "groundzero_miraave_extract",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "214.0775",
+      "Y": "17.01762",
+      "Z": "48.86733"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16",
+      "Y": "3",
+      "Z": "14"
+    }
+  },
+  {
+    "ZoneId": "groundzero_miraave_extract_mark",
+    "ZoneName": "groundzero_miraave_extract_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "214.0775",
+      "Y": "17.01762",
+      "Z": "48.86733"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16",
+      "Y": "3",
+      "Z": "14"
+    }
+  },  
+  {
+    "ZoneId": "groundzero_miraave_mines",
+    "ZoneName": "groundzero_miraave_mines",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "194.8725",
+      "Y": "17.16087",
+      "Z": "124.8378"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "35.5",
+      "Y": "3",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "groundzero_miraave_mines_mark",
+    "ZoneName": "groundzero_miraave_mines_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "194.8725",
+      "Y": "17.16087",
+      "Z": "124.8378"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "35.5",
+      "Y": "3",
+      "Z": "4.5"
+    }
+  },  
+  {
+    "ZoneId": "groundzero_emercom_extract",
+    "ZoneName": "groundzero_emercom_extract",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "150.6799",
+      "Y": "23.51923",
+      "Z": "-92.85676"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "21.5",
+      "Y": "2.5",
+      "Z": "15.75"
+    }
+  },
+  {
+    "ZoneId": "groundzero_emercom_extract_mark",
+    "ZoneName": "groundzero_emercom_extract_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "150.6799",
+      "Y": "23.51923",
+      "Z": "-92.85676"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "21.5",
+      "Y": "2.5",
+      "Z": "15.75"
+    }
+  },  
+  {
+    "ZoneId": "groundzero_taxi_extract",
+    "ZoneName": "groundzero_taxi_extract",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-6.376207",
+      "Y": "23.11596",
+      "Z": "112.2964"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "12.5",
+      "Y": "4.25",
+      "Z": "18.25"
+    }
+  },
+  {
+    "ZoneId": "groundzero_taxi_extract_mark",
+    "ZoneName": "groundzero_taxi_extract_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-6.376207",
+      "Y": "23.11596",
+      "Z": "112.2964"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "12.5",
+      "Y": "4.25",
+      "Z": "18.25"
+    }
+  },  
+  {
+    "ZoneId": "groundzero_nakatani_snipers",
+    "ZoneName": "groundzero_nakatani_snipers",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "2.81634",
+      "Y": "23.09708",
+      "Z": "293.1705"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "25",
+      "Y": "1",
+      "Z": "39.5"
+    }
+  },
+  {
+    "ZoneId": "groundzero_nakatani_snipers_mark",
+    "ZoneName": "groundzero_nakatani_snipers_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "2.81634",
+      "Y": "23.09708",
+      "Z": "293.1705"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "25",
+      "Y": "1",
+      "Z": "39.5"
+    }
+  },  
+  {
+    "ZoneId": "groundzero_terragroup_truck",
+    "ZoneName": "groundzero_terragroup_truck",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "124.5226",
+      "Y": "23.4188",
+      "Z": "65.69078"
+    },
+    "Rotation": {
+      "X": "-0.02433583",
+      "Y": "-0.3550835",
+      "Z": "-0.04651152"
+    },
+    "Scale": {
+      "X": "15",
+      "Y": "4",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "groundzero_terragroup_truck_mark",
+    "ZoneName": "groundzero_terragroup_truck_mark",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "124.5226",
+      "Y": "23.4188",
+      "Z": "65.69078"
+    },
+    "Rotation": {
+      "X": "-0.02433583",
+      "Y": "-0.3550835",
+      "Z": "-0.04651152"
+    },
+    "Scale": {
+      "X": "15",
+      "Y": "4",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "interchange_emercom",
+    "ZoneName": "interchange_emercom",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-316.5691",
+      "Y": "22.32544",
+      "Z": "265.9866"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.1240344",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "14.5",
+      "Y": "4.75",
+      "Z": "13.75"
+    }
+  },
+  {
+    "ZoneId": "interchange_emercom_mark",
+    "ZoneName": "interchange_emercom_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-316.5691",
+      "Y": "22.32544",
+      "Z": "265.9866"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.1240344",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "14.5",
+      "Y": "4.75",
+      "Z": "13.75"
+    }
+  },
+  {
+    "ZoneId": "interchange_container1",
+    "ZoneName": "interchange_container1",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "139.0181",
+      "Y": "25.34956",
+      "Z": "269.4029"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.006544938",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2.5",
+      "Z": "11"
+    }
+  },
+  {
+    "ZoneId": "interchange_container1_mark",
+    "ZoneName": "interchange_container1_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "139.0181",
+      "Y": "25.34956",
+      "Z": "269.4029"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.006544938",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2.5",
+      "Z": "11"
+    }
+  },
+  {
+    "ZoneId": "interchange_kibahallway",
+    "ZoneName": "interchange_kibahallway",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-4.623281",
+      "Y": "28.33647",
+      "Z": "-35.34823"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9.75",
+      "Y": "2.5",
+      "Z": "9.75"
+    }
+  },
+  {
+    "ZoneId": "interchange_kibahallway_mark",
+    "ZoneName": "interchange_kibahallway_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-4.623281",
+      "Y": "28.33647",
+      "Z": "-35.34823"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9.75",
+      "Y": "2.5",
+      "Z": "9.75"
+    }
+  },
+  {
+    "ZoneId": "interchange_toiletswitch",
+    "ZoneName": "interchange_toiletswitch",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-51.0742",
+      "Y": "37.342",
+      "Z": "-124.6927"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "1.75",
+      "Z": "2"
+    }
+  },
+  {
+    "ZoneId": "interchange_toiletswitch_mark",
+    "ZoneName": "interchange_toiletswitch_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-51.0742",
+      "Y": "37.342",
+      "Z": "-124.6927"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "1.75",
+      "Z": "2"
+    }
+  },
+  {
+    "ZoneId": "interchange_saferoom_outside",
+    "ZoneName": "interchange_saferoom_outside",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-51.41664",
+      "Y": "22.07546",
+      "Z": "46.86338"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "3.5",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "interchange_saferoom_outside_mark",
+    "ZoneName": "interchange_saferoom_outside_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-51.41664",
+      "Y": "22.07546",
+      "Z": "46.86338"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "3.5",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "interchange_railwayexfil",
+    "ZoneName": "interchange_railwayexfil",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "474.4223",
+      "Y": "20.73259",
+      "Z": "-426.2055"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "18",
+      "Y": "7.75",
+      "Z": "30.25"
+    }
+  },
+  {
+    "ZoneId": "interchange_railwayexfil_mark",
+    "ZoneName": "interchange_railwayexfil_mark",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "474.4223",
+      "Y": "20.73259",
+      "Z": "-426.2055"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "18",
+      "Y": "7.75",
+      "Z": "30.25"
+    }
+  },
+  {
+    "ZoneId": "customs_dorm3_stairs",
+    "ZoneName": "customs_dorm3_stairs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "171.8742",
+      "Y": "4.081581",
+      "Z": "159.97"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.07628398",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "8.75",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "customs_dorm3_stairs_mark",
+    "ZoneName": "customs_dorm3_stairs_mark",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "171.8742",
+      "Y": "4.081581",
+      "Z": "159.97"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.07628398",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "8.75",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "customs_dorm2_stairs",
+    "ZoneName": "customs_dorm2_stairs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "234.9165",
+      "Y": "1.853559",
+      "Z": "141.134"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06104854",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.5",
+      "Y": "5.25",
+      "Z": "2.5"
+    }
+  },
+  {
+    "ZoneId": "customs_dorm2_stairs_mark",
+    "ZoneName": "customs_dorm2_stairs_mark",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "234.9165",
+      "Y": "1.853559",
+      "Z": "141.134"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06104854",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.5",
+      "Y": "5.25",
+      "Z": "2.5"
+    }
+  },
+  {
+    "ZoneId": "customs_greenscreen",
+    "ZoneName": "customs_greenscreen",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "567.0763",
+      "Y": "7.972023",
+      "Z": "-81.46765"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.03707975",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6",
+      "Y": "2.5",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "customs_greenscreen_mark",
+    "ZoneName": "customs_greenscreen_mark",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "567.0763",
+      "Y": "7.972023",
+      "Z": "-81.46765"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.03707975",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6",
+      "Y": "2.5",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "customs_construction_kill",
+    "ZoneName": "customs_construction_kill",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "botkillzone",
+    "FlareType": "",
+    "Position": {
+      "X": "181.3154",
+      "Y": "8.620522",
+      "Z": "-129.9366"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.09801714",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "180.75",
+      "Y": "28.5",
+      "Z": "167"
+    }
+  },
+  {
+    "ZoneId": "woods_shturmanstash",
+    "ZoneName": "woods_shturmanstash",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "23.56726",
+      "Y": "-1.678375",
+      "Z": "-30.27479"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.03925982",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "3.75",
+      "Z": "7"
+    }
+  },
+  {
+    "ZoneId": "woods_shturmanstash_mark",
+    "ZoneName": "woods_shturmanstash_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "23.56726",
+      "Y": "-1.678375",
+      "Z": "-30.27479"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.03925982",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "3.75",
+      "Z": "7"
+    }
+  },
+  {
+    "ZoneId": "woods_zb014",
+    "ZoneName": "woods_zb014",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "446.3238",
+      "Y": "-13.7454",
+      "Z": "69.30455"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.25",
+      "Y": "4.25",
+      "Z": "7"
+    }
+  },
+  {
+    "ZoneId": "woods_zb014_mark",
+    "ZoneName": "woods_zb014_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "446.3238",
+      "Y": "-13.7454",
+      "Z": "69.30455"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.25",
+      "Y": "4.25",
+      "Z": "7"
+    }
+  },
+  {
+    "ZoneId": "woods_zb016",
+    "ZoneName": "woods_zb016",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-389.3936",
+      "Y": "3.754583",
+      "Z": "21.82006"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6",
+      "Y": "3.75",
+      "Z": "7.75"
+    }
+  },
+  {
+    "ZoneId": "woods_zb016_mark",
+    "ZoneName": "woods_zb016_mark",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-389.3936",
+      "Y": "3.754583",
+      "Z": "21.82006"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6",
+      "Y": "3.75",
+      "Z": "7.75"
+    }
+  },
+  {
+    "ZoneId": "shoreine_sanitarroom",
+    "ZoneName": "shoreine_sanitarroom",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-322.9551",
+      "Y": "-3.413403",
+      "Z": "-81.06409"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.75",
+      "Y": "3.75",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "shoreine_sanitarroom_mark",
+    "ZoneName": "shoreine_sanitarroom_mark",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-322.9551",
+      "Y": "-3.413403",
+      "Z": "-81.06409"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.75",
+      "Y": "3.75",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_checkpoint",
+    "ZoneName": "streets_btr_checkpoint",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "125.9408",
+      "Y": "-1.81538",
+      "Z": "46.03447"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "11",
+      "Y": "4.5",
+      "Z": "8.75"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_checkpoint_mark",
+    "ZoneName": "streets_btr_checkpoint_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "125.9408",
+      "Y": "-1.81538",
+      "Z": "46.03447"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "11",
+      "Y": "4.5",
+      "Z": "8.75"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_crane",
+    "ZoneName": "streets_btr_crane",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "195.7816",
+      "Y": "3.857352",
+      "Z": "249.1278"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "10.25",
+      "Y": "3.75",
+      "Z": "20"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_crane_mark",
+    "ZoneName": "streets_btr_crane_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "195.7816",
+      "Y": "3.857352",
+      "Z": "249.1278"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "10.25",
+      "Y": "3.75",
+      "Z": "20"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_pinewood",
+    "ZoneName": "streets_btr_pinewood",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-126.707",
+      "Y": "1.403988",
+      "Z": "61.03525"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.0828082",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "7.5",
+      "Y": "4",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_pinewood_mark",
+    "ZoneName": "streets_btr_pinewood_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-126.707",
+      "Y": "1.403988",
+      "Z": "61.03525"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.0828082",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "7.5",
+      "Y": "4",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_cinema",
+    "ZoneName": "streets_btr_cinema",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-145.8466",
+      "Y": "2.541497",
+      "Z": "395.4747"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.75",
+      "Y": "3.25",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_cinema_mark",
+    "ZoneName": "streets_btr_cinema_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-145.8466",
+      "Y": "2.541497",
+      "Z": "395.4747"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.75",
+      "Y": "3.25",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_sewerriver",
+    "ZoneName": "streets_btr_sewerriver",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-228.7728",
+      "Y": "2.780233",
+      "Z": "225.7191"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.0414397",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "12.5",
+      "Y": "3.75",
+      "Z": "11.25"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_sewerriver_mark",
+    "ZoneName": "streets_btr_sewerriver_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-228.7728",
+      "Y": "2.780233",
+      "Z": "225.7191"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.0414397",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "12.5",
+      "Y": "3.75",
+      "Z": "11.25"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_citycenter",
+    "ZoneName": "streets_btr_citycenter",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-3.836652",
+      "Y": "3.318141",
+      "Z": "208.6008"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16",
+      "Y": "3.5",
+      "Z": "6"
+    }
+  },
+  {
+    "ZoneId": "streets_btr_citycenter_mark",
+    "ZoneName": "streets_btr_citycenter_mark",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-3.836652",
+      "Y": "3.318141",
+      "Z": "208.6008"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16",
+      "Y": "3.5",
+      "Z": "6"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg1_blockpost",
+    "ZoneName": "lighthouse_hmg1_blockpost",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-7.758093",
+      "Y": "8.521317",
+      "Z": "-451.0316"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.75",
+      "Y": "2.5",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_ags1_blockpost",
+    "ZoneName": "lighthouse_ags1_blockpost",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "43.68473",
+      "Y": "10.78441",
+      "Z": "-448.9855"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.5",
+      "Y": "2.75",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg1_west",
+    "ZoneName": "lighthouse_hmg1_west",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "28.93785",
+      "Y": "15.10254",
+      "Z": "-591.3294"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "3.25",
+      "Z": "2.75"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg2_west",
+    "ZoneName": "lighthouse_hmg2_west",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "37.47338",
+      "Y": "14.69275",
+      "Z": "-652.027"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "3.25",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg1_north",
+    "ZoneName": "lighthouse_hmg1_north",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-130.531",
+      "Y": "14.69273",
+      "Z": "-729.9008"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "3.75",
+      "Z": "3.5"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg2_north",
+    "ZoneName": "lighthouse_hmg2_north",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-69.85845",
+      "Y": "15.08086",
+      "Z": "-754.0867"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "2.75",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_ags1_north",
+    "ZoneName": "lighthouse_ags1_north",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-64.39233",
+      "Y": "14.44271",
+      "Z": "-729.4962"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.75",
+      "Y": "3",
+      "Z": "3.5"
+    }
+  },
+  {
+    "ZoneId": "lighthouse_hmg1_east",
+    "ZoneName": "lighthouse_hmg1_east",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-187.6287",
+      "Y": "14.69275",
+      "Z": "-643.0947"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4",
+      "Y": "3.5",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "labs_hangargate",
+    "ZoneName": "labs_hangargate",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-170.7563",
+      "Y": "5.761335",
+      "Z": "-283.3011"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.5",
+      "Y": "3.25",
+      "Z": "3.5"
+    }
+  },
+  {
+    "ZoneId": "labs_hangargate_mark",
+    "ZoneName": "labs_hangargate_mark",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-170.7563",
+      "Y": "5.761335",
+      "Z": "-283.3011"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.5",
+      "Y": "3.25",
+      "Z": "3.5"
+    }
+  },
+  {
+    "ZoneId": "labs_blackroom_outside",
+    "ZoneName": "labs_blackroom_outside",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-130.8472",
+      "Y": "1.528972",
+      "Z": "-349.7058"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16.75",
+      "Y": "3.25",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "labs_blackroom_outside_mark",
+    "ZoneName": "labs_blackroom_outside_mark",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-130.8472",
+      "Y": "1.528972",
+      "Z": "-349.7058"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "16.75",
+      "Y": "3.25",
+      "Z": "4.5"
+    }
+  },
+  {
+    "ZoneId": "labs_adminroom",
+    "ZoneName": "labs_adminroom",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-162.758",
+      "Y": "5.375084",
+      "Z": "-342.9734"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4",
+      "Y": "2.75",
+      "Z": "14"
+    }
+  },
+  {
+    "ZoneId": "labs_adminroom_mark",
+    "ZoneName": "labs_adminroom_mark",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-162.758",
+      "Y": "5.375084",
+      "Z": "-342.9734"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4",
+      "Y": "2.75",
+      "Z": "14"
+    }
+  },
+  {
+    "ZoneId": "labs_weaponroom",
+    "ZoneName": "labs_weaponroom",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-182.9499",
+      "Y": "1.079985",
+      "Z": "-313.8501"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.75",
+      "Y": "2.25",
+      "Z": "8.25"
+    }
+  },
+  {
+    "ZoneId": "labs_weaponroom_mark",
+    "ZoneName": "labs_weaponroom_mark",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-182.9499",
+      "Y": "1.079985",
+      "Z": "-313.8501"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.75",
+      "Y": "2.25",
+      "Z": "8.25"
+    }
+  },
+  {
+    "ZoneId": "labs_parkgate",
+    "ZoneName": "labs_parkgate",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-246.4032",
+      "Y": "5.354156",
+      "Z": "-379.6362"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "10",
+      "Y": "2.5",
+      "Z": "5.5"
+    }
+  },
+  {
+    "ZoneId": "labs_parkgate_mark",
+    "ZoneName": "labs_parkgate_mark",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-246.4032",
+      "Y": "5.354156",
+      "Z": "-379.6362"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "10",
+      "Y": "2.5",
+      "Z": "5.5"
+    }
+  }
+]

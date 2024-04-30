@@ -1,0 +1,686 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - EscapeFromTarkov (28/04/2024 15:31:52)
+[Info   :   BepInEx] Running under Unity v0.14.1.2919
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [aki_PrePatch 3.8.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [Aki.PrePatch.AkiBotsPrePatcher]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] Loading [Graphics 1.6.0]
+[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
+[Info   :   BepInEx] Loading [Borkel's Realistic NVGs 1.5.2]
+[Info   :ModulePatch] Enabled patch NightVisionAwakePatch
+[Info   :ModulePatch] Enabled patch NightVisionApplySettingsPatch
+[Info   :ModulePatch] Enabled patch NightVisionSetMaskPatch
+[Info   :ModulePatch] Enabled patch ThermalVisionSetMaskPatch
+[Info   :ModulePatch] Enabled patch SprintPatch
+[Info   :ModulePatch] Enabled patch NightVisionMethod_1
+[Info   :   BepInEx] Loading [StashSearch 1.1.0]
+[Info   :ModulePatch] Enabled patch GridViewShowPatch
+[Info   :ModulePatch] Enabled patch InventoryScreenShowPatch
+[Info   :ModulePatch] Enabled patch TraderScreensGroupShowPatch
+[Info   :ModulePatch] Enabled patch TraderDealScreenShowPatch
+[Info   :ModulePatch] Enabled patch OnScreenChangedPatch
+[Info   :ModulePatch] Enabled patch SortingTablePatch
+[Info   :ModulePatch] Enabled patch CanQuickMoveToPatch
+[Info   :   BepInEx] Loading [AKI.Custom 3.8.0]
+[Info   :AKI.Custom] Loading: Aki.Custom
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/bundles
+[Info   :RequestHandler] Request was successful
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_hhs_1_tan.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_trijicon_rmr.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_belomo_pk_06.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/equipment/customizable/gpnvg/nvg_l3_gpnvg-18_anvis.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_burris_fullfield_tac30_1_4x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_p90_fn_ring_sight_std.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/equipment/customizable/pvs_14/nvg_pvs_14.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_kmz_1p59_3_10x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_kmz_1p69_3_10x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_553.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_7mm_vomz_target_ring.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_sig_romeo_4.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_sig_romeo_8t.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_trijicon_srs_02.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_34mm_nightforce_atacr_7_35x56.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_aimpoint_micro_t1.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_burris_fullfield_tac30_1_4x24_textures.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_progress_pu_3,5x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_walther_mrs.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_valday_ps320.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_monstrum_compact_prism_scope_2x32.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_dovetail_belomo_pso_1m2_1_4x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_npz_1p78_1_2,8x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_march_tactical_3-24x42.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_elcan_specter_dr_1-4.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_elcan_specter_dr_1-4_fde.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_leupold_deltapoint.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_25_4mm_vomz_pilad_4x32m.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_eotech_vudu_1_6x24.bundle
+[Info   :BundleManager] CACHE: Bundle is invalid, (re-)acquiring assets/content/items/mods/scopes/scope_all_aimpoint_micro_h1_high_mark
+[Info   :BundleManager] CACHE: Bundle is invalid, (re-)acquiring assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_mark
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_hhs_1.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_dovetail_belomo_pso_1m2_4x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_dovetail_npz_nspum_3,5x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_burris_fast_fire_3.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_exps3.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_dovetail_npz_1p29_4x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_xps3-2.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_eotech_xps3-0.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_hk_hk416a5_std.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_leupold_mark4_hamr.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_leupold_mark4_lr_6,5_20x50.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_vortex_razor_amg_uh-1.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_34mm_s&b_pm_ii_3_12x50.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_ekb_okp7.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_flir_rs32_225_9x_35_60hz.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_noveske_gen3.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_ncstar_advance_dual_optic_3_9x_42.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_s&b_pm_ii_1_8x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_adar_2-15_std.bundle
+[Info   :BundleManager] CACHE: Loading locally m4_gas_block.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_trijicon_acog_ta11_3,5x35.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_aimpooint_comp_m4.bundle
+[Info   :BundleManager] CACHE: Loading locally 6kh4_bayonet.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_dovetail_belomo_pso_1_4x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_lone_star_tx15_lightweight.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_tan.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_primary_arms_compact_prism_scope_2,5x.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/recievers/reciever_ar15_vltor_mur-1s.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_30mm_razor_hd_gen_2_1_6x24.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_34mm_hensoldt_zf_4_16x56_ff.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_holosun_hs401g5.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_elcan_specter_dr_marks.bundle
+[Info   :BundleManager] CACHE: Loading locally ak74_gt.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_base_trijicon_reap-ir.bundle
+[Info   :BundleManager] CACHE: Loading locally akm_gt.bundle
+[Info   :BundleManager] CACHE: Loading locally mosin_bayonet.bundle
+[Info   :BundleManager] CACHE: Loading locally vepr_136_gt.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_valday_krechet.bundle
+[Info   :BundleManager] CACHE: Loading locally m9_bayonet.bundle
+[Info   :BundleManager] CACHE: Loading locally assets/content/items/mods/scopes/scope_all_sig_bravo4_4x30.bundle
+[Info   :RequestHandler] Request GET data: 662e908900046875c619ba8c:/files/bundle/assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_mark
+[Info   :RequestHandler] Request GET data: 662e908900046875c619ba8c:/files/bundle/assets/content/items/mods/scopes/scope_all_aimpoint_micro_h1_high_mark
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch EasyBundlePatch
+[Info   :ModulePatch] Enabled patch BossSpawnChancePatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch OfflineRaidMenuPatch
+[Info   :ModulePatch] Enabled patch OfflineRaidSettingsMenuPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :ModulePatch] Enabled patch IsEnemyPatch
+[Info   :ModulePatch] Enabled patch BotCalledDataTryCallPatch
+[Info   :ModulePatch] Enabled patch BotCallForHelpCallBotPatch
+[Info   :ModulePatch] Enabled patch BotOwnerDisposePatch
+[Info   :ModulePatch] Enabled patch LocationLootCacheBustingPatch
+[Info   :ModulePatch] Enabled patch CheckAndAddEnemyPatch
+[Info   :ModulePatch] Enabled patch BotSelfEnemyPatch
+[Info   :ModulePatch] Enabled patch AddEnemyToAllGroupsInBotZonePatch
+[Info   :ModulePatch] Enabled patch AirdropPatch
+[Info   :ModulePatch] Enabled patch AirdropFlarePatch
+[Info   :ModulePatch] Enabled patch AddSptBotSettingsPatch
+[Info   :ModulePatch] Enabled patch CustomAiPatch
+[Info   :ModulePatch] Enabled patch AddTraitorScavsPatch
+[Info   :ModulePatch] Enabled patch ExitWhileLootingPatch
+[Info   :ModulePatch] Enabled patch QTEPatch
+[Info   :ModulePatch] Enabled patch PmcFirstAidPatch
+[Info   :ModulePatch] Enabled patch SettingsLocationPatch
+[Info   :ModulePatch] Enabled patch SetLocationIdOnRaidStartPatch
+[Info   :ModulePatch] Enabled patch RagfairFeePatch
+[Info   :ModulePatch] Enabled patch ScavQuestPatch
+[Info   :ModulePatch] Enabled patch FixBrokenSpawnOnSandboxPatch
+[Info   :ModulePatch] Enabled patch BTRPathLoadPatch
+[Info   :ModulePatch] Enabled patch BTRActivateTraderDialogPatch
+[Info   :ModulePatch] Enabled patch BTRInteractionPatch
+[Info   :ModulePatch] Enabled patch BTRExtractPassengersPatch
+[Info   :ModulePatch] Enabled patch BTRBotAttachPatch
+[Info   :ModulePatch] Enabled patch BTRReceiveDamageInfoPatch
+[Info   :ModulePatch] Enabled patch BTRTurretCanShootPatch
+[Info   :ModulePatch] Enabled patch BTRTurretDefaultAimingPositionPatch
+[Info   :ModulePatch] Enabled patch BTRIsDoorsClosedPath
+[Info   :ModulePatch] Enabled patch BTRPatch
+[Info   :ModulePatch] Enabled patch BTRTransferItemsPatch
+[Info   :ModulePatch] Enabled patch BTREndRaidItemDeliveryPatch
+[Info   :ModulePatch] Enabled patch BTRDestroyAtRaidEndPatch
+[Warning:  HarmonyX] BTRVehicleMovementSpeedPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual void VehicleBase::Update() instead of virtual void VehicleBase::Update().
+[Info   :ModulePatch] Enabled patch BTRVehicleMovementSpeedPatch
+[Info   :ModulePatch] Enabled patch ScavItemCheckmarkPatch
+[Info   :ModulePatch] Enabled patch ResetTraderServicesPatch
+[Info   :ModulePatch] Enabled patch CultistAmuletRemovalPatch
+[Info   :ModulePatch] Enabled patch HalloweenExtractPatch
+[Info   :ModulePatch] Enabled patch ClampRagdollPatch
+[Info   :AKI.Custom] Completed: Aki.Custom
+[Info   :   BepInEx] Loading [AKI.Singleplayer 3.8.0]
+[Info   :AKI.Singleplayer] Loading: Aki.SinglePlayer
+[Info   :ModulePatch] Enabled patch OfflineSaveProfilePatch
+[Info   :ModulePatch] Enabled patch ExperienceGainPatch
+[Info   :ModulePatch] Enabled patch ScavExperienceGainPatch
+[Info   :ModulePatch] Enabled patch MainMenuControllerPatch
+[Info   :ModulePatch] Enabled patch PlayerPatch
+[Info   :ModulePatch] Enabled patch SelectLocationScreenPatch
+[Info   :ModulePatch] Enabled patch InsuranceScreenPatch
+[Info   :ModulePatch] Enabled patch BotTemplateLimitPatch
+[Info   :ModulePatch] Enabled patch GetNewBotTemplatesPatch
+[Info   :ModulePatch] Enabled patch RemoveUsedBotProfilePatch
+[Info   :ModulePatch] Enabled patch DogtagPatch
+[Info   :ModulePatch] Enabled patch LoadOfflineRaidScreenPatch
+[Info   :ModulePatch] Enabled patch ScavPrefabLoadPatch
+[Info   :ModulePatch] Enabled patch ScavProfileLoadPatch
+[Info   :ModulePatch] Enabled patch ScavExfilPatch
+[Info   :ModulePatch] Enabled patch ExfilPointManagerPatch
+[Info   :ModulePatch] Enabled patch TinnitusFixPatch
+[Info   :ModulePatch] Enabled patch MaxBotPatch
+[Info   :ModulePatch] Enabled patch SpawnPmcPatch
+[Info   :ModulePatch] Enabled patch PostRaidHealingPricePatch
+[Info   :ModulePatch] Enabled patch EndByTimerPatch
+[Info   :ModulePatch] Enabled patch InRaidQuestAvailablePatch
+[Info   :ModulePatch] Enabled patch PostRaidHealScreenPatch
+[Info   :ModulePatch] Enabled patch VoIPTogglerPatch
+[Info   :ModulePatch] Enabled patch MidRaidQuestChangePatch
+[Info   :ModulePatch] Enabled patch HealthControllerPatch
+[Info   :ModulePatch] Enabled patch LighthouseBridgePatch
+[Info   :ModulePatch] Enabled patch LighthouseTransmitterPatch
+[Info   :ModulePatch] Enabled patch EmptyInfilFixPatch
+[Info   :ModulePatch] Enabled patch SmokeGrenadeFuseSoundFixPatch
+[Info   :ModulePatch] Enabled patch PlayerToggleSoundFixPatch
+[Info   :ModulePatch] Enabled patch PluginErrorNotifierPatch
+[Info   :ModulePatch] Enabled patch SpawnProcessNegativeValuePatch
+[Info   :ModulePatch] Enabled patch InsuredItemManagerStartPatch
+[Info   :ModulePatch] Enabled patch MapReadyButtonPatch
+[Info   :ModulePatch] Enabled patch LabsKeycardRemovalPatch
+[Info   :ModulePatch] Enabled patch ScavLateStartPatch
+[Info   :ModulePatch] Enabled patch MidRaidAchievementChangePatch
+[Info   :ModulePatch] Enabled patch GetTraderServicesPatch
+[Info   :ModulePatch] Enabled patch PurchaseTraderServicePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllPriceStorePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllRequestPatch
+[Info   :ModulePatch] Enabled patch HideoutQuestIgnorePatch
+[Info   :ModulePatch] Enabled patch LightKeeperServicesPatch
+[Info   :ModulePatch] Enabled patch ScavEncyclopediaPatch
+[Info   :ModulePatch] Enabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Enabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Enabled patch ArmorDamageCounterPatch
+[Info   :AKI.Singleplayer] Completed: Aki.SinglePlayer
+[Info   :   BepInEx] Loading [MPT.Core 1.0.0]
+[Info   :ModulePatch] Enabled patch MPTVersionLabelPatch
+[Info   :ModulePatch] Enabled patch DisableReadyButtonPatch
+[Info   :ModulePatch] Enabled patch DisableInsuranceReadyButtonPatch
+[Info   :ModulePatch] Enabled patch DisableMatchSettingsReadyButton
+[Info   :ModulePatch] Enabled patch TarkovApplication_LocalGameCreator_Patch
+[Info   :ModulePatch] Enabled patch DeathFadePatch
+[Info   :ModulePatch] Enabled patch ItemContextPatch
+[Info   :ModulePatch] Enabled patch NonWaveSpawnScenarioPatch
+[Info   :ModulePatch] Enabled patch WaveSpawnScenarioPatch
+[Info   :ModulePatch] Enabled patch WeatherNodePatch
+[Info   :ModulePatch] Enabled patch EnvironmentUIRootPatch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreenAwakePatch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreenShowPatch
+[Info   :ModulePatch] Enabled patch Minefield_method_2_Patch
+[Info   :ModulePatch] Enabled patch TOSPatch
+[Info   :ModulePatch] Disabled patch BotDifficultyPatch
+[Info   :ModulePatch] Disabled patch AirdropPatch
+[Info   :ModulePatch] Disabled patch AirdropFlarePatch
+[Info   :ModulePatch] Disabled patch VersionLabelPatch
+[Info   :ModulePatch] Disabled patch EmptyInfilFixPatch
+[Info   :ModulePatch] Disabled patch OfflineSpawnPointPatch
+[Info   :ModulePatch] Disabled patch BotTemplateLimitPatch
+[Info   :ModulePatch] Disabled patch OfflineRaidSettingsMenuPatch
+[Info   :ModulePatch] Disabled patch AddEnemyToAllGroupsInBotZonePatch
+[Info   :ModulePatch] Disabled patch MaxBotPatch
+[Info   :ModulePatch] Disabled patch LabsKeycardRemovalPatch
+[Info   :ModulePatch] Disabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Disabled patch ArmorDamageCounterPatch
+[Info   :ModulePatch] Disabled patch DogtagPatch
+[Info   :ModulePatch] Disabled patch BTRInteractionPatch
+[Info   :ModulePatch] Disabled patch BTRExtractPassengersPatch
+[Info   :ModulePatch] Disabled patch BTRPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatchOverride
+[Info   :ModulePatch] Enabled patch ScavProfileLoadOverride
+[Info   :ModulePatch] Enabled patch MaxBotPatchOverride
+[Info   :ModulePatch] Enabled patch BotTemplateLimitPatchOverride
+[Info   :ModulePatch] Enabled patch OfflineRaidSettingsMenuPatchOverride
+[Info   :ModulePatch] Enabled patch AddEnemyToAllGroupsInBotZonePatchOverride
+[Info   :ModulePatch] Enabled patch MPTAirdropFlarePatch
+[Info   :  MPT.Core] MPT is loaded!
+[Info   :  MPT.Core] Adding Graphics to loaded mods.
+[Info   :  MPT.Core] Adding Configuration Manager to loaded mods.
+[Info   :  MPT.Core] Adding Borkel's Realistic NVGs to loaded mods.
+[Info   :  MPT.Core] Adding StashSearch to loaded mods.
+[Info   :  MPT.Core] Adding AKI.Custom to loaded mods.
+[Info   :  MPT.Core] Adding AKI.Singleplayer to loaded mods.
+[Info   :  MPT.Core] Adding MPT.Core to loaded mods.
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/airdrop/config
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/mpt/client/config
+[Info   :RequestHandler] Request was successful
+[Info   :   BepInEx] Loading [AKI.Core 3.8.0]
+[Info   :  AKI.Core] Loading: Aki.Core
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch GameValidationPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatch
+[Info   :ModulePatch] Enabled patch SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch
+[Info   :ModulePatch] Enabled patch WebSocketPatch
+[Info   :ModulePatch] Enabled patch TransportPrefixPatch
+[Info   :  AKI.Core] Completed: Aki.Core
+[Info   :   BepInEx] Loading [AKI.Debugging 3.8.0]
+[Info   :AKI.Debugging] Loading: Aki.Debugging
+[Info   :ModulePatch] Enabled patch EndRaidDebug
+[Info   :ModulePatch] Enabled patch LoggerClassLogPatch
+[Info   :AKI.Debugging] Completed: Aki.Debugging
+[Info   :   BepInEx] Loading [VCQL-Zones 1.0.0]
+[Info   :ModulePatch] Enabled patch GameWorldPatch
+[Info   :   BepInEx] Loading [FOVFix 1.0.0]
+[Info   :ModulePatch] Enabled patch PwaWeaponParamsPatch
+[Info   :ModulePatch] Enabled patch FreeLookPatch
+[Info   :ModulePatch] Enabled patch LerpCameraPatch
+[Info   :ModulePatch] Enabled patch IsAimingPatch
+[Info   :ModulePatch] Enabled patch ChangeAimingModePatch
+[Info   :ModulePatch] Enabled patch SetScopeModePatch
+[Info   :ModulePatch] Enabled patch OperationSetScopeModePatch
+[Info   :ModulePatch] Enabled patch KeyInputPatch
+[Info   :ModulePatch] Enabled patch AimingSensitivityPatch
+[Info   :   BepInEx] Loading [DrakiaXYZ-BigBrain 0.4.0.0]
+[Info   :DrakiaXYZ-BigBrain] Loading: DrakiaXYZ-BigBrain
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivatePatch
+[Info   :ModulePatch] Enabled patch BotBrainCreateLogicNodePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainUpdatePatch
+[Info   :ModulePatch] Enabled patch BotAgentUpdatePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivateLayerPatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainAddLayerPatch
+[Info   :DrakiaXYZ-BigBrain] Completed: DrakiaXYZ-BigBrain
+[Info   :   BepInEx] Loading [LootingBots 1.3.1]
+[Info   :ModulePatch] Enabled patch CleanCacheOnRaidEnd
+[Info   :ModulePatch] Enabled patch ClearCacheOnDeath
+[Info   :ModulePatch] Enabled patch EnableWeaponSwitching
+[Info   :ModulePatch] Enabled patch InteractPatch
+[Info   :ModulePatch] Enabled patch InventoryClosePatch
+[Info   :ModulePatch] Enabled patch RemoveComponent
+[Info   :   BepInEx] Loading [RealismMod 1.1.1]
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:http://86.9.21.250:6969/RealismMod/GetInfo
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Enabled patch GetTotalMalfunctionChancePatch
+[Info   :ModulePatch] Enabled patch ChamberCheckUIPatch
+[Info   :ModulePatch] Enabled patch KeyInputPatch
+[Info   :ModulePatch] Enabled patch SyncWithCharacterSkillsPatch
+[Info   :ModulePatch] Enabled patch OnItemAddedOrRemovedPatch
+[Info   :ModulePatch] Enabled patch PlayerLateUpdatePatch
+[Info   :ModulePatch] Enabled patch PlayerInitPatch
+[Info   :ModulePatch] Enabled patch UpdateWeaponVariablesPatch
+[Info   :ModulePatch] Enabled patch SetAimingSlowdownPatch
+[Info   :ModulePatch] Enabled patch PwaWeaponParamsPatch
+[Info   :ModulePatch] Enabled patch UpdateSwayFactorsPatch
+[Info   :ModulePatch] Enabled patch GetOverweightPatch
+[Info   :ModulePatch] Enabled patch SetOverweightPatch
+[Info   :ModulePatch] Enabled patch BreathProcessPatch
+[Info   :ModulePatch] Enabled patch CamRecoilPatch
+[Info   :ModulePatch] Enabled patch COIDeltaPatch
+[Info   :ModulePatch] Enabled patch TotalShotgunDispersionPatch
+[Info   :ModulePatch] Enabled patch GetDurabilityLossOnShotPatch
+[Info   :ModulePatch] Enabled patch AutoFireRatePatch
+[Info   :ModulePatch] Enabled patch SingleFireRatePatch
+[Info   :ModulePatch] Enabled patch ErgoDeltaPatch
+[Info   :ModulePatch] Enabled patch ErgoWeightPatch
+[Info   :ModulePatch] Enabled patch PlayerErgoPatch
+[Info   :ModulePatch] Enabled patch ToggleAimPatch
+[Info   :ModulePatch] Enabled patch GetMalfunctionStatePatch
+[Info   :ModulePatch] Enabled patch CalibrationLookAt
+[Info   :ModulePatch] Enabled patch CalibrationLookAtScope
+[Info   :ModulePatch] Enabled patch ModConstructorPatch
+[Info   :ModulePatch] Enabled patch WeaponConstructorPatch
+[Info   :ModulePatch] Enabled patch HRecoilDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch HRecoilDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch VRecoilDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch VRecoilDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch ModVRecoilStatDisplayPatchFloat
+[Info   :ModulePatch] Enabled patch ModVRecoilStatDisplayPatchString
+[Info   :ModulePatch] Enabled patch ErgoDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch ErgoDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch COIDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch COIDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch FireRateDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch GetCachedReadonlyQualitiesPatch
+[Info   :ModulePatch] Enabled patch CenterOfImpactMOAPatch
+[Info   :ModulePatch] Enabled patch ModErgoStatDisplayPatch
+[Info   :ModulePatch] Enabled patch GetAttributeIconPatches
+[Info   :ModulePatch] Enabled patch AmmoDuraBurnDisplayPatch
+[Info   :ModulePatch] Enabled patch AmmoMalfChanceDisplayPatch
+[Info   :ModulePatch] Enabled patch MagazineMalfChanceDisplayPatch
+[Info   :ModulePatch] Enabled patch BarrelModClassPatch
+[Info   :ModulePatch] Enabled patch AmmoCaliberPatch
+[Info   :ModulePatch] Enabled patch GetTotalCenterOfImpactPatch
+[Info   :ModulePatch] Enabled patch GetCameraRotationRecoilPatch
+[Info   :ModulePatch] Enabled patch RecalcWeaponParametersPatch
+[Info   :ModulePatch] Enabled patch AddRecoilForcePatch
+[Info   :ModulePatch] Enabled patch RecoilAnglesPatch
+[Info   :ModulePatch] Enabled patch ShootPatch
+[Info   :ModulePatch] Enabled patch RotatePatch
+[Info   :ModulePatch] Enabled patch CanStartReloadPatch
+[Info   :ModulePatch] Enabled patch ReloadMagPatch
+[Info   :ModulePatch] Enabled patch QuickReloadMagPatch
+[Info   :ModulePatch] Enabled patch SetMagTypeCurrentPatch
+[Info   :ModulePatch] Enabled patch SetMagTypeNewPatch
+[Info   :ModulePatch] Enabled patch SetMagInWeaponPatch
+[Info   :ModulePatch] Enabled patch SetMalfRepairSpeedPatch
+[Info   :ModulePatch] Enabled patch BoltActionReloadPatch
+[Info   :ModulePatch] Enabled patch SetWeaponLevelPatch
+[Info   :ModulePatch] Enabled patch ReloadWithAmmoPatch
+[Info   :ModulePatch] Enabled patch ReloadBarrelsPatch
+[Info   :ModulePatch] Enabled patch ReloadCylinderMagazinePatch
+[Info   :ModulePatch] Enabled patch OnMagInsertedPatch
+[Info   :ModulePatch] Enabled patch SetSpeedParametersPatch
+[Info   :ModulePatch] Enabled patch CheckAmmoPatch
+[Info   :ModulePatch] Enabled patch CheckChamberPatch
+[Info   :ModulePatch] Enabled patch RechamberPatch
+[Info   :ModulePatch] Enabled patch SetAnimatorAndProceduralValuesPatch
+[Info   :ModulePatch] Enabled patch CreateShotPatch
+[Info   :ModulePatch] Enabled patch ApplyArmorDamagePatch
+[Info   :ModulePatch] Enabled patch DamageInfoPatch
+[Info   :ModulePatch] Enabled patch ApplyDamageInfoPatch
+[Info   :ModulePatch] Enabled patch SetPenetrationStatusPatch
+[Info   :ModulePatch] Enabled patch AfterPenPlatePatch
+[Info   :ModulePatch] Enabled patch IsShotDeflectedByHeavyArmorPatch
+[Info   :ModulePatch] Enabled patch RigConstructorPatch
+[Info   :ModulePatch] Enabled patch EquipmentPenaltyComponentPatch
+[Info   :ModulePatch] Enabled patch ArmorLevelUIPatch
+[Info   :ModulePatch] Enabled patch ArmorLevelDisplayPatch
+[Info   :ModulePatch] Enabled patch ApplyCorpseImpulsePatch
+[Info   :ModulePatch] Enabled patch PrismEffectsEnablePatch
+[Info   :ModulePatch] Enabled patch PrismEffectsDisablePatch
+[Info   :ModulePatch] Enabled patch UpdatePhonesPatch
+[Info   :ModulePatch] Enabled patch SetCompressorPatch
+[Info   :ModulePatch] Enabled patch RegisterShotPatch
+[Info   :ModulePatch] Enabled patch ExplosionPatch
+[Info   :ModulePatch] Enabled patch GrenadeClassContusionPatch
+[Info   :ModulePatch] Enabled patch CovertMovementVolumePatch
+[Info   :ModulePatch] Enabled patch CovertMovementVolumeBySpeedPatch
+[Info   :ModulePatch] Enabled patch CovertEquipmentVolumePatch
+[Info   :ModulePatch] Enabled patch HeadsetConstructorPatch
+[Info   :ModulePatch] Enabled patch TotalWeightPatch
+[Info   :ModulePatch] Enabled patch CalculateSurfacePatch
+[Info   :ModulePatch] Enabled patch CalculateSurfacePatch
+[Info   :ModulePatch] Enabled patch ClampSpeedPatch
+[Info   :ModulePatch] Enabled patch SprintAccelerationPatch
+[Info   :ModulePatch] Enabled patch EnduranceSprintActionPatch
+[Info   :ModulePatch] Enabled patch EnduranceMovementActionPatch
+[Info   :ModulePatch] Enabled patch ApplyComplexRotationPatch
+[Info   :ModulePatch] Enabled patch ApplySimpleRotationPatch
+[Info   :ModulePatch] Enabled patch InitTransformsPatch
+[Info   :ModulePatch] Enabled patch ZeroAdjustmentsPatch
+[Info   :ModulePatch] Enabled patch WeaponOverlappingPatch
+[Info   :ModulePatch] Enabled patch WeaponLengthPatch
+[Info   :ModulePatch] Enabled patch OnWeaponDrawPatch
+[Info   :ModulePatch] Enabled patch UpdateHipInaccuracyPatch
+[Info   :ModulePatch] Enabled patch SetFireModePatch
+[Info   :ModulePatch] Enabled patch WeaponOverlapViewPatch
+[Info   :ModulePatch] Enabled patch CollisionPatch
+[Info   :ModulePatch] Enabled patch OperateStationaryWeaponPatch
+[Info   :ModulePatch] Enabled patch SetTiltPatch
+[Info   :ModulePatch] Enabled patch BattleUIScreenPatch
+[Info   :ModulePatch] Enabled patch MuzzleSmokePatch
+[Info   :ModulePatch] Enabled patch ChangePosePatch
+[Message:   BepInEx] Chainloader startup complete
+[Info   :ModulePatch] Enabled patch AmandsLocalPlayerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsApplyNVGPatch
+[Warning:  HarmonyX] AmandsGraphicsHBAOPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void HBAO_Core::ApplyPreset(HBAO_Core+Preset preset) instead of void HBAO_Core::ApplyPreset(HBAO_Core+Preset preset).
+[Info   :ModulePatch] Enabled patch AmandsGraphicsHBAOPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsPrismEffectsPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticSightPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsCameraClassPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsmethod_22Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsTacticalComboVisualControllerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsMethod_7Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurHitPatch
+[Info   :ModulePatch] Enabled patch AmandsBattleUIScreenPatch
+[Info   :ModulePatch] Enabled patch AmandsEffectsControllerPatch
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/settings/version
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/release
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/enableBSGlogging
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: 662e908900046875c619ba8c:/singleplayer/settings/version
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Server version: SPT-AKI 3.8.0 - 2dd4d9
+[Info   :LootingBots] Initializing item appraiser
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/singleplayer/log
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: 662e908900046875c619ba8c:/player/health/sync
+[Info   :RequestHandler] Request was successful
